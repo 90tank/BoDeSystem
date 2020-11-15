@@ -17,11 +17,11 @@ import java.util.Map;
 
 /**
  * @author: hxy
- * @description: shiro配置类
+ * @description: shiro配置类   使用Session 的方式
  * @date: 2017/10/24 10:10
  */
-@Configuration
-public class ShiroConfiguration {
+//@Configuration
+public class ShiroConfigurationBak {
 	/**
 	 * Shiro的Web过滤器Factory 命名:shiroFilter
 	 */
